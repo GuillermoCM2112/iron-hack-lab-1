@@ -1,0 +1,22 @@
+{
+    "name": "client-app",
+    "version": "1.0.0",
+    "description": "A frontend application for my .NET solution.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "lint": "eslint .",
+      "build": "webpack --mode production"
+    },
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+      "jest": "^27.0.0",
+      "eslint": "^8.0.0",
+      "webpack": "^5.0.0"
+    },
+    "author": "GCM",
+    "license": "MIT"
+  }

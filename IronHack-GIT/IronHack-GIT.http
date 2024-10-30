@@ -1,0 +1,6 @@
+@IronHack_GIT_HostAddress = http://localhost:5077
+
+GET {{IronHack_GIT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
